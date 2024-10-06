@@ -1,3 +1,0 @@
-/Users/markmunyi/Desktop/MUIC/MuIC-/build/CMakeFiles/MuICSimulation.dir
-/Users/markmunyi/Desktop/MUIC/MuIC-/build/CMakeFiles/edit_cache.dir
-/Users/markmunyi/Desktop/MUIC/MuIC-/build/CMakeFiles/rebuild_cache.dir
